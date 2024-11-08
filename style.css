@@ -1,0 +1,28 @@
+/* html{
+    height: 100vh; - показує розмір фону 1 екран 
+} */
+body{
+    color:darkblue;
+    background: linear-gradient(45deg, rgb(158, 139, 237), rgb(198, 173, 231), rgb(231, 86, 173));
+}
+
+   /* картинка на фон
+
+body{ 
+    background-image: url("./2024_Acer_OLED_default_3840x2400.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 300px;
+    background-position: 200px; 
+
+}  */
+p{
+    color:whitesmoke;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+/* заокруглені фото */
+/* img{
+    border-radius: 10%;
+} */
